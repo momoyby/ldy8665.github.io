@@ -98,11 +98,14 @@ service-worker: true
 # Friends
 friends: [
 		{
+        title: "CSDN",
+        href: "https://blog.csdn.net/ldy866"
+    },{
         title: "简书·Sillyman",
         href: "https://www.jianshu.com/u/859ada75061d"
     },{
-        title: "Github",
-        href: "https://github.com/"
+    		title: "GitHub",
+    		href: "https://github.com/"
     }
     
 ]
