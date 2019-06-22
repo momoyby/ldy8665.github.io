@@ -4,7 +4,7 @@ title:      ATTENTION, LEARN TO SOLVE ROUTING PROBLEMS!
 subtitle:   论文笔记
 date:       2019-06-14
 author:     Sillyman
-header-img: img/blog_Jekyll_error_hearder.jpg
+header-img: img/blog_Attention.jpg
 catalog: true
 tags:
     - Note
