@@ -1,6 +1,6 @@
 # Site settings
 title: Momoyby Blog
-SEOTitle: 于小洋的博客 | Momoyby Blog
+SEOTitle: 于先森的博客 | Momoyby Blog
 header-img: img/post-bg-desk2.jpg
 email: 17543067086@163.com
 description: "没事再进步一点。"
@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar-by.JPG      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     不过是个宫保鸡丁罢了
+# weibo_username:     不过是个宫保鸡丁罢了
 #csdn_username:    YBY
 github_username:    momoyby
 # jianshu_username:   859ada75061d
